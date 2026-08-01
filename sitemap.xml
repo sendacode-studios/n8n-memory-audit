@@ -4,4 +4,8 @@
     <loc>https://sendacode-studios.github.io/n8n-memory-audit/</loc>
     <changefreq>weekly</changefreq>
   </url>
+  <url>
+    <loc>https://sendacode-studios.github.io/n8n-memory-audit/sample-audit.md</loc>
+    <changefreq>monthly</changefreq>
+  </url>
 </urlset>
