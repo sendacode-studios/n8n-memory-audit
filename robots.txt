@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sendacode-studios.github.io/n8n-memory-audit/sitemap.xml
